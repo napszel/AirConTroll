@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gameText>
+	<ultimateQuestion>Connect the red and blue pipes at the top with the same coloured pipe at the bottom without letting any air escape. Don't waste the pipes, use as many as you can!</ultimateQuestion>
+	<switches>SWITCHES</switches>
+	<turns>TURNS</turns>
+	<rules>RULES</rules>
+	<award>AWARD</award>
+	<demoText>DEMO</demoText>
+	<nextlevel>Next Level</nextlevel>
+	<wait>Wait, this will restart the level. Are you sure?</wait>
+	<welldone>Well done! You can finish this level and get </welldone>
+	<welldone2>points award!</welldone2>
+	<nowyoucan>Well done! Now you can finish the game and get all of your points!</nowyoucan>
+	<imdone>Finish Game</imdone>
+	<sure>I'm sure! Restart!</sure>
+	<noway>What? No way!</noway>
+	<newgame>New Game</newgame>
+	<endsconnected>ENDS CONNECTED!</endsconnected>
+	<gameover>GAME OVER!</gameover>
+	<click>Click any pipe to rotate it left.</click>
+	<drag>Click and Drag pipes to switch them.</drag>
+	<cantdrag>You can't switch the pipes only rotate them.</cantdrag>
+	<bonus>BONUS tiles can only be rotated but not moved. Using them scores extra points!</bonus>
+	<currentscore>The points awarded for finishing the level now.</currentscore>
+	<nextlevelhelp>...if they are lit, click 'Next Level' to proceed.</nextlevelhelp>
+	<stuck>If you are stuck, you can use this lever to restart the level.</stuck>
+	<lights>Light up these lights by connecting both red and blue sources with their ends...</lights>
+	<exit>Click here to return to Main Menu.</exit>
+	<referencetext>
+		The size of the award you get on each level is based on 2 things: the number of pipes you built in your route (the more pipes the bigger award) and the number of moves you made (the more moves the smaller award). 
+		+++ The 'built in pipes' component of you award:
+		You get a certain amount of points for each pipe that is built in your route (colored) when you finish the level. The points are as follows:
+		
+		
+		Each bonus pipe is worth twice as many points as if it was a regular one.
+		--- The 'number of moves' component of your award:
+		You won't lose any points for rotating pipes but you will lose for switching them. This component of your award starts at 1000 points, but falls by 50 points for each pair of pipes you switch. When you are over 17 switches, you lose 5 points for each subsequent switch.	
+	</referencetext>
+	<referencetextpuzzle>
+		The size of the award you get on each level is based on 2 things: the number of pipes you built in your route (the more pipes the bigger award) and the number of moves you made (the more moves the smaller award). 
+		+++ The 'built in pipes' component of you award:
+		You get a certain amount of points for each pipe that is built in your route (colored) when you finish the level. The points are as follows:
+		
+		
+		--- The 'number of moves' component of your award:
+		You lose 10 points for each turn you make.	
+	</referencetextpuzzle>
+	<startGame>NEW GAME</startGame>
+	<demo>HOW TO PLAY</demo>
+	<reference>REFERENCE</reference>
+	<mainMenu>MAIN MENU</mainMenu>
+</gameText>

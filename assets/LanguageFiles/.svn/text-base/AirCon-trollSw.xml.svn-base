@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gameText>
+	<ultimateQuestion>Connect the red and blue pipes at the top with the same coloured pipe at the bottom without letting any air escape. Don't waste the pipes, use as many as you can!</ultimateQuestion>
+	<bluepipes>BLUE PIPES</bluepipes>
+	<redpipes>RED PIPES</redpipes>
+	<switches>SWITCHES</switches>
+	<rules>RULES</rules>
+	<points>POINTS</points>
+	<demoText>DEMO</demoText>
+	<nextlevel>Next Level</nextlevel>
+	<imdone>Get your points!</imdone>
+	<wait>Wait, this will restart the level. Are you sure?</wait>
+	<welldone>Well done! You can proceed to</welldone>
+	<nowyoucan>Well done! Now you can </nowyoucan>
+	<sure>I'm sure! Restart!</sure>
+	<noway>What? No way!</noway>
+	<newgame>New Game</newgame>
+	<endsconnected>ENDS CONNECTED!</endsconnected>
+	<gameover>GAME OVER!</gameover>
+	<click>Click any pipe to rotate it left.</click>
+	<drag>Click and Drag pipes to switch them.</drag>
+	<bonus>BONUS tiles can only be rotated but not moved. Using them scores extra points!</bonus>
+	<currentscore>Your score on the current level.</currentscore>
+	<nextlevelhelp>...if they are lit, click 'Next Level' to proceed.</nextlevelhelp>
+	<stuck>If you are stuck, you can use this handle to ask for new pipes.</stuck>
+	<lights>Light up these lights by connecting both red and blue sources with their ends...</lights>
+	<exit>Click here to return to Main Menu.</exit>
+	<startGame>NEW GAME</startGame>
+	<demo>HOW TO PLAY</demo>
+	<reference>REFERENCE</reference>
+	<mainMenu>MAIN MENU</mainMenu>
+</gameText>

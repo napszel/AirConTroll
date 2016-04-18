@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gameText>
+	<ultimateQuestion>Yhdistä punaiset putkenpäät toisiinsa ja siniset toisiinsa.!</ultimateQuestion>
+	<bluepipes>SINISET PUTKET</bluepipes>
+	<redpipes>PUNAISET PUTKET</redpipes>
+	<switches>VAIHTOJA</switches>
+	<rules>SÄÄNNÖT</rules>
+	<points>PISTEET</points>
+	<imdone>Olen Valmis</imdone>
+	<newgame>Uusi Peli</newgame>
+	<endsconnected>PÄÄT YHDISTETTY!</endsconnected>
+	<gameover>PELI LOPPU!</gameover>
+	<click>KLIKKAA -> kääntää putkea vastapäivään</click>
+	<drag>VEDÄ -> vaihtaa putken naapurin kanssa</drag>
+	<bonus>BONUS tiilet -> ei voi siirtää, mutta niiden käyttäminen antaa lisäpisteitä</bonus>
+</gameText>
